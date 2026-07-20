@@ -1,5 +1,14 @@
 {
   "enabledPlugins": {
     "commit-commands@claude-plugins-official": true
+  },
+  "pluginConfig": {
+    "commit-commands@claude-plugins-official": {
+      "signature": false
+    }
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "bash \"/Users/sasha/.claude/plugins/cache/caveman/caveman/0d95a81d35a9/src/hooks/caveman-statusline.sh\""
   }
 }
